@@ -1,24 +1,24 @@
 @font-face {
     font-family: CormorantInfant;
-    src: url(/fonts/CormorantInfant-Medium.ttf);
+    src: url(fonts/CormorantInfant-Medium.ttf);
     font-weight: 500;
 }
 
 @font-face {
     font-family: CormorantInfant;
-    src: url(/fonts/CormorantInfant-Light.ttf);
+    src: url(fonts/CormorantInfant-Light.ttf);
     font-weight: 200;
 }
 
 @font-face {
     font-family: CormorantInfant;
-    src: url(/fonts/CormorantInfant-Regular.ttf);
+    src: url(fonts/CormorantInfant-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: CormorantInfant;
-    src: url(/fonts/CormorantInfant-SemiBold.ttf);
+    src: url(fonts/CormorantInfant-SemiBold.ttf);
     font-weight: 600;
 }
 
